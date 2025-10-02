@@ -7,7 +7,7 @@ toolchain go1.24.7
 require (
 	github.com/aiteung/atdb v0.1.7
 	github.com/aiteung/musik v0.0.5
-	github.com/gofiber/fiber/v2 v2.52.9
+	github.com/gofiber/fiber/v2 v2.52.4
 	github.com/whatsauth/whatsauth v0.2.9
 	go.mau.fi/whatsmeow v0.0.0-20250930215512-38f9aaa3ba7c
 )
