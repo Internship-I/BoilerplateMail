@@ -1,7 +1,7 @@
 package url
 
 import (
-	"github.com/Nidasakinaa/BoilerplateMail/controller"
+	"github.com/Internship1/BoilerplateMail/controller"
 
 	"github.com/gofiber/fiber/v2"
 )

@@ -3,13 +3,13 @@ package main
 import (
 	"log"
 
-	"github.com/Nidasakinaa/BoilerplateMail/config"
+	"github.com/Internship1/BoilerplateMail/config"
 
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 
 
-	"github.com/Nidasakinaa/BoilerplateMail/url"
+	"github.com/Internship1/BoilerplateMail/url"
 
 	"github.com/gofiber/fiber/v2"
 )
